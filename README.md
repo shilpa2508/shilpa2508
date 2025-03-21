@@ -1,10 +1,6 @@
-## Hi there 👋
- 
-I'm Shilpa from India, now in Montreal, Canada, with 8+ years in Web & Graphic designing. Skilled in UI/UX, Wordpress, C, C#, Python, Swift, .NET, PHP, Css, HTML, and more. Passionate about bridging & development to build impactful digital solutions.
+<h1>Hi 👋, From India, now in Montreal, Canada, with 8+ years in Web & Graphic designing. Skilled in UI/UX, Wordpress, C, C#, Python, Swift, .NET, PHP, Css, HTML, and more. Passionate about bridging & development to build impactful digital solutions.
 Co-Founder @ [Intellectual Geeks](https://intellectualgeeks.com/)  
-Let's connect: [LinkedIn](https://www.linkedin.com/in/shilpa-shilpa-158466273/)
-
-<h1>Hi 👋, I'm Shilpa</h1>
+Let's connect: [LinkedIn](https://www.linkedin.com/in/shilpa-shilpa-158466273/)</h1>
 <p>Designer & Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
