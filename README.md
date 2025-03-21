@@ -1,7 +1,6 @@
-<h4>Hi 👋, From India, now in Montreal, Canada, with 8+ years in Web & Graphic designing. Skilled in UI/UX, Wordpress, C, C#, Python, Swift, .NET, PHP, Css, HTML, and more. Passionate about bridging & development to build impactful digital solutions.
-Co-Founder @ [Intellectual Geeks](https://intellectualgeeks.com/)  
-Let's connect: [LinkedIn](https://www.linkedin.com/in/shilpa-shilpa-158466273/)</h4>
-<p>Designer & Developer</p>
+<h1>Hi 👋, I'm Shilpa</h1>
+<h4>Co-Founder @ [Intellectual Geeks](https://intellectualgeeks.com/)</h4>
+<p>Full-Stack *Designer & Developer*</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -30,8 +29,6 @@ Let's connect: [LinkedIn](https://www.linkedin.com/in/shilpa-shilpa-158466273/)<
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shilpa2508&show_icons=true&locale=en" alt="shilpa2508" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shilpa2508&" alt="shilpa2508" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpa2508&show_icons=true&locale=en&layout=compact" alt="shilpa2508" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shilpa2508" alt="shilpa2508" /></a></p>
-
