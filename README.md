@@ -4,4 +4,4 @@ I'm Shilpa from India, now in Montreal, Canada, with 8+ years in Web & Graphic d
 Co-Founder @ [Intellectual Geeks](https://intellectualgeeks.com/)  
 Let's connect: [LinkedIn](https://www.linkedin.com/in/shilpa-shilpa-158466273/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?shilpa2508=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shilpa2508&hide=contribs,prs)
