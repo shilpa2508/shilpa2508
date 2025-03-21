@@ -1,4 +1,5 @@
-<img src=https://intellectualgeeks.com/wp-content/uploads/2023/05/iglogo.png/>
+![Intellectual Geeks Logo](https://intellectualgeeks.com/wp-content/uploads/2023/05/iglogo.png)
+
 
 <h1>Hi 👋, I'm Shilpa</h1>
 <h4>Co-Founder @ [Intellectual Geeks](https://intellectualgeeks.com/)</h4>
